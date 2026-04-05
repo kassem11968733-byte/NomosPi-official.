@@ -1,5 +1,9 @@
 
 # NomosPi Official Project ⚖️
+> [!IMPORTANT]
+> **Note for Mobile Users:** If the Whitepaper PDF does not display, please **Download** it or switch your browser to **"Desktop Site"** mode.
+> 
+> **ملاحظة لمستخدمي الهاتف:** إذا لم يظهر ملف الورقة البيضاء (PDF)، يرجى **تحميله** أو تحويل المتصفح إلى وضع **"موقع سطح المكتب"**.
 
 ## 🎨 Visual Identity (Vision)
 ​![NomosPi Vision](NomosPi_vision.jpg)
