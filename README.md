@@ -2,7 +2,7 @@
 # NomosPi Official Project ⚖️
 
 ## 🎨 Visual Identity (Vision)
-![NomosPi Vision](nomospi-vision.jpg)
+![NomosPi-Vision](nomospi-vision.jpg)
 
 ### Vision Description:
 The visual identity of **NomosPi** represents the perfect equilibrium between justice and digital innovation. 
